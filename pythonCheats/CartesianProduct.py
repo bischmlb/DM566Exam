@@ -1,9 +1,6 @@
 
 
 
-set1 = ("a","b","c") #set1
-set2 = (1,2,3,4) #set2
-
 def CartesianProduct(set1, set2):
     print("CARTESIAN PRODUCT OF:")
     print("AxB = {", end="")
