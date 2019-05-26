@@ -15,18 +15,18 @@ When data is disinguished without previously known examples.
 **Detection of rare coincidences that are different from majority of data**
 
 ##Classification\
-**Assigning different pieces of data to different classes. e.g putting a mail into spam or non-spam.**\
+**Assigning different pieces of data to different classes. e.g putting a mail into spam or non-spam.**
 
-(a) Optical character recognition/OCR:\ *unsupervised learning*, classification\
+(a) Optical character recognition/OCR:\ *unsupervised learning*, classification
 
 (b) Computer Aided Diagnosis:\
-*supervised learning*, classification\
+*supervised learning*, classification
 
 (c) Cheat Detection:\
-*supervised learning*, Outlier detection\
+*supervised learning*, Outlier detection
 
 (d) Recommendation systems:\
-*supervised learning* Association rule mining\
+*supervised learning* Association rule mining
 
 (e) News Aggregation:\
-*unsupervised*, Clustering\
+*unsupervised*, Clustering
