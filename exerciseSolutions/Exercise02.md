@@ -23,8 +23,8 @@ It generalizes the concept of a function f : X → Y by not forcing f to map eve
 **A(a) -> Z(1) A(b) -> Z(2)** **A(c) -> Z(1)**
 
 #Exercise 2-2\
-(a)supp({Milk} -> {Diapers}) = 40%, conf({Milk} -> {Diapers}) = supp({Milk} -> {Diapers}/supp({Milk}) = 40%/50% = 80%.
-(b)supp({Diapers} -> {Milk}) = 40%, conf({Diapers} -> {Milk}) = supp({Diapers} -> {Milk}/supp({Diapers}) = 40%/70% = 57%
+(a)supp({Milk} -> {Diapers}) = 40%, conf({Milk} -> {Diapers}) = supp({Milk} -> {Diapers}/supp({Milk}) = 40%/50% = 80%.\
+(b)supp({Diapers} -> {Milk}) = 40%, conf({Diapers} -> {Milk}) = supp({Diapers} -> {Milk}/supp({Diapers}) = 40%/70% = 57%\
 (c) ∀x ∈ T : σ(x) = *6*, given that σ(x) = max support of size 3\
 (d)  6 unique items, 3^6-2^(6+1)+1 = 3-2+1 = 602 possible rules\
 (e) itemset {Milk, Diapers, Bread, Butter} has the biggest size with 4 items and is frequent\
