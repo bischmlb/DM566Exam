@@ -1,6 +1,6 @@
-#Exercise 1-1
+#Exercise 1-1\
 **Supervised learning**\
-When previous examples are taken into account and data is distinguished based upon it.
+When previous examples are taken into account and data is distinguished based upon it.(*Comparisons!*)
 
 **Unsupervised learning**\
 When data is disinguished without previously known examples.
@@ -17,7 +17,7 @@ When data is disinguished without previously known examples.
 ##Classification\
 **Assigning different pieces of data to different classes. e.g putting a mail into spam or non-spam.**
 
-(a) Optical character recognition OCR:\
+(a) Optical character recognition/OCR:\
 *unsupervised learning*, classification
 
 (b) Computer Aided Diagnosis:\
