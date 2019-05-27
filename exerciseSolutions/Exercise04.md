@@ -28,7 +28,6 @@ Support threshold = 2
 | DE      | 1     |
 | DF      | 2     |
 | EF      | 1     |\
-
 Her fjerner vi altså AF, DE, EF fordi de er under 2:
 
 | TransID | Items |
@@ -85,10 +84,10 @@ Nu fjerner vi ACD, ADE, BDE, BDF, BEF, CDE, CEF
 | BCDE    | 1     |
 | BCDF    | 1     |
 | BCEF    | 1     |\
-
 Her skal alle fjernes, og tabellen er derfor irrelevant. Vi bruger forrige.\
 
-Result: ABC, ABD, ABE, ACE, BCD, BCE, BCF, CDF \
+Result: ABC, ABD, ABE, ACE, BCD, BCE, BCF, CDF\
+
 | TransID | Items |
 |---------|-------|
 | ABC     | 2     |
