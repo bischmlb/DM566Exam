@@ -98,3 +98,39 @@ Result: ABC, ABD, ABE, ACE, BCD, BCE, BCF, CDF\
 | BCE     | 3     |
 | BCF     | 2     |
 | CDF     | 2     |\
+
+
+#Exercise 4-2
+Warmup exercise...: \
+dist2(p, q) = 5.3851 . . .\
+dist1(p, q) = 9\
+dist∞(p, q) = 4\
+distw(p, q) = 7.1063\
+distM1(p, q) = 5.3851 . . .\
+distM2(p, q) = 8.4261 . .\
+**ColorhistorgramsAndDistancefunctions.py** \
+
+
+
+
+(a) a (1, 4, 4), b(8, 1, 7), c(2, 4, 10), d(1, 2, 13), q(1, 8, 7)\
+
+(b) \
+Color histograms (red, orange, blue); distance\
+q = (1, 8, 7)\
+a = (1, 4, 4);dist(q, a) = 5\
+b = (8, 1, 7);dist(q, b) = 9.9\
+c = (2, 4, 10);dist(q, c) = 5.1\
+d = (1, 2, 13);dist(q, d) = 8.5 \
+
+ranking = a,c,d,b\
+
+(c) The results are not entirely satisfactory. What could you change in the feature extraction\ or in the distance function to get better results? Report the improved feature extraction and\ features or the improved\
+distance function.\
+Debatably, picture b is more similar to q than a or d are. The problem is that the Euclidean\ distance takes\
+each color individually to compute the distance but does not take similarity between different\ colors (i.e.,\
+bins in the histogram) into account.\
+A solution would be to use the quadratic form (a.k.a. Mahalanobis-) distance. We need a\ similarity matrix\
+to define the (subjective) similarity of bins with each other\
+
+se **ExtrasolutionsDistanceMeasuring.pdf**
