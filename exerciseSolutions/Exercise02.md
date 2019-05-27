@@ -22,6 +22,7 @@ It generalizes the concept of a function f : X → Y by not forcing f to map eve
 ##Total Function \
 **A(a) -> Z(1) A(b) -> Z(2)** **A(c) -> Z(1)**
 
+**AssociationRules.py**
 #Exercise 2-2\
 (a)supp({Milk} -> {Diapers}) = 40%, conf({Milk} -> {Diapers}) = supp({Milk} -> {Diapers}/supp({Milk}) = 40%/50% = 80%.\
 (b)supp({Diapers} -> {Milk}) = 40%, conf({Diapers} -> {Milk}) = supp({Diapers} -> {Milk}/supp({Diapers}) = 40%/70% = 57%\
