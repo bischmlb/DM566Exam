@@ -65,7 +65,7 @@ Her fjerner vi altså AF, DE, EF fordi de er under 2:
 | CEF     | 1     |\
 Nu fjerner vi ACD, ADE, BDE, BDF, BEF, CDE, CEF
 
-**| TransID | Items |
+| TransID | Items |
 |---------|-------|
 | ABC     | 2     |
 | ABD     | 2     |
@@ -74,7 +74,8 @@ Nu fjerner vi ACD, ADE, BDE, BDF, BEF, CDE, CEF
 | BCD     | 2     |
 | BCE     | 3     |
 | BCF     | 2     |
-| CDF     | 2     |**\
+| CDF     | 2     |\
+
 
 | TransID | Items |
 |---------|-------|
@@ -87,4 +88,14 @@ Nu fjerner vi ACD, ADE, BDE, BDF, BEF, CDE, CEF
 
 Her skal alle fjernes, og tabellen er derfor irrelevant. Vi bruger forrige.\
 
-Result: ABC, ABD, ABE, ACE, BCD, BCE, BCF, CDF
+Result: ABC, ABD, ABE, ACE, BCD, BCE, BCF, CDF \
+| TransID | Items |
+|---------|-------|
+| ABC     | 2     |
+| ABD     | 2     |
+| ABE     | 2     |
+| ACE     | 3     |
+| BCD     | 2     |
+| BCE     | 3     |
+| BCF     | 2     |
+| CDF     | 2     |\

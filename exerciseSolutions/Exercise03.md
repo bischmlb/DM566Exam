@@ -25,4 +25,4 @@ itemset (w.r.t. some σ) if it is a closed itemset and is
 frequent (w.r.t. σ).\
 
 CFI support 4: {A} {B} {C} {CD} {ACE}, {AB}, {ACD}\
-CFI support 2: {ABCD}, {ABCE}\
+CFI support 2: {ABCD}, {ABCE} (ikke rigtig)\
