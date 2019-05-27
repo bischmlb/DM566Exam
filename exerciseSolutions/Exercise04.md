@@ -125,12 +125,14 @@ d = (1, 2, 13);dist(q, d) = 8.5 \
 
 ranking = a,c,d,b\
 
-(c) The results are not entirely satisfactory. What could you change in the feature extraction\ or in the distance function to get better results? Report the improved feature extraction and\ features or the improved\
+(c)The results are not entirely satisfactory. What could you change in the feature extractionor  
+in the distance function to get better results? Report the improved feature extraction and
+features or the improved 
 distance function.\
-Debatably, picture b is more similar to q than a or d are. The problem is that the Euclidean\ distance takes\
-each color individually to compute the distance but does not take similarity between different\ colors (i.e.,\
-bins in the histogram) into account.\
-A solution would be to use the quadratic form (a.k.a. Mahalanobis-) distance. We need a\ similarity matrix\
-to define the (subjective) similarity of bins with each other\
+Debatably, picture b is more similar to q than a or d are. The problem is that the Euclidean
+distance takes each color individually to compute the distance but does not take similarity
+between different colors (i.e., bins in the histogram) into account.\
+A solution would be to use the quadratic form (a.k.a. Mahalanobis-) distance. We need a
+similarity matrix to define the (subjective) similarity of bins with each other\
 
 se **ExtrasolutionsDistanceMeasuring.pdf**
