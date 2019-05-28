@@ -1,4 +1,4 @@
-#Exercise 3-1\
+# Exercise 3-1
 {1,2,3},{1,2,4},{1,2,5},{1,3,4},{1,3,5},{2,3,4},{2,3,5},{3,4,5}\
 
 list all candidate 4 items:\
@@ -15,8 +15,8 @@ pruning: remove {1,2,4,5} (vi har ikke 2,4,5), remove {2,3,4,5} (fordi vi har ik
 
 result is highlighted\
 
-#Exercise 3-3\
-##Closed Frequent Itemsets\
+# Exercise 3-3
+## Closed Frequent Itemsets
 An itemset X is closed if none of its
 immediate supersets has exactly the same support as
 X.\

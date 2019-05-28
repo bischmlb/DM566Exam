@@ -1,12 +1,12 @@
-#Exercise 5-1\
+# Exercise 5-1
 
-##Nominal
+## Nominal
 (categories) = Possible to tell whether two values are equal or not. Examples: sex, eye color, healthy/sick, amino acids \
 
-##Ordinal
+## Ordinal
 = There is an order relation (better/worse) but no uniform distance. Examples grade, quality label, age class, color\
 
-##Metric
+## Metric
 = differences and relations between values are meaningful, values can be discrete or continuous. Examples : weight, selling counts, age. \
 
 exaples = n = 5. x=odd numbers y = even.\
@@ -73,7 +73,7 @@ d(y,z) = (15,9) + (7,10) = 1+1\
 **e = Metric**\
 
 
-#Exercise 5-2\
+# Exercise 5-2
 
 (a) ??
 

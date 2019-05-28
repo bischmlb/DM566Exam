@@ -1,20 +1,20 @@
-#Exercise 1-1\
+# Exercise 1-1
 **Supervised learning**\
 When previous examples are taken into account and data is distinguished based upon it.(*Comparisons!*)
 
 **Unsupervised learning**\
 When data is disinguished without previously known examples.
 
-##Association rule mining:\
+## Association rule mining:
 **In which grade different sets of data supports each other**
 
-##Clustering:\
+## Clustering:
 **Putting information together in clusters**
 
-##Outlier detection\
+## Outlier detection
 **Detection of rare coincidences that are different from majority of data**
 
-##Classification\
+## Classification
 **Assigning different pieces of data to different classes. e.g putting a mail into spam or non-spam.**
 
 (a) Optical character recognition/OCR:\

@@ -1,4 +1,4 @@
-#Exercise 4-1\
+# Exercise 4-1
 
 Support threshold = 2
 
@@ -100,7 +100,7 @@ Result: ABC, ABD, ABE, ACE, BCD, BCE, BCF, CDF\
 | CDF     | 2     |\
 
 
-#Exercise 4-2
+# Exercise 4-2
 Warmup exercise...: \
 dist2(p, q) = 5.3851 . . .\
 dist1(p, q) = 9\
@@ -127,7 +127,7 @@ ranking = a,c,d,b\
 
 (c)The results are not entirely satisfactory. What could you change in the feature extractionor  
 in the distance function to get better results? Report the improved feature extraction and
-features or the improved 
+features or the improved
 distance function.\
 Debatably, picture b is more similar to q than a or d are. The problem is that the Euclidean
 distance takes each color individually to compute the distance but does not take similarity

@@ -1,4 +1,4 @@
-#Exercise 6-1\
+# Exercise 6-1
 2:2,3\
 4:4\
 6:10,11,12,20,25,30\
@@ -45,8 +45,8 @@ ny centroid = 1+7+7+6+7/5 = 5.4 5+7+8+8+9 = 7.4 = (5.6, 7.4) slide eksempel* \
 
 
 
-#Exercise 6-2\
-## Clustering vs Classification! = \
+# Exercise 6-2
+## Clustering vs Classification!
 clustering = \
 we cannot learn rules to sort points into clusters\
 we do not know how many clusters there are\
@@ -72,11 +72,11 @@ training data is not provided.\
 (f) Clustering\
 (g) Classification\
 
-#Exercise 6-3\
+# Exercise 6-3
 Silhouette Coefficient: -1 equals *bad*, 1 equals *good*\
 a(o) = gennemsnitlige afstand fra means-punkt til omkringliggende punkter fra samme cluster.\
 b(o) = gennemsnitlige afstand fra means-punkt til omkringliggende punkter fra tætteste nabo cluster.\
-## b(o) - a(o)/max(a(o), b(o))\ (slide 167)
+## b(o) - a(o)/max(a(o), b(o)) ---- (slides p. 167)
 llouyd example(1): \
 a(o) = 49.70 \
 b(o) = 0.70 \
