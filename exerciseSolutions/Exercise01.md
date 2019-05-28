@@ -1,8 +1,8 @@
 # Exercise 1-1
-**Supervised learning**\
+**Supervised learning**  
 When previous examples are taken into account and data is distinguished based upon it.(*Comparisons!*)
 
-**Unsupervised learning**\
+**Unsupervised learning**  
 When data is disinguished without previously known examples.
 
 ## Association rule mining:
@@ -17,17 +17,17 @@ When data is disinguished without previously known examples.
 ## Classification
 **Assigning different pieces of data to different classes. e.g putting a mail into spam or non-spam.**
 
-(a) Optical character recognition/OCR:\
+(a) Optical character recognition/OCR:  
 *unsupervised learning*, classification
 
-(b) Computer Aided Diagnosis:\
+(b) Computer Aided Diagnosis:  
 *supervised learning*, classification
 
-(c) Cheat Detection:\
+(c) Cheat Detection:  
 *supervised learning*, Outlier detection
 
-(d) Recommendation systems:\
+(d) Recommendation systems:  
 *supervised learning* Association rule mining
 
-(e) News Aggregation:\
+(e) News Aggregation:  
 *unsupervised*, Clustering
