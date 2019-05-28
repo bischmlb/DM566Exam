@@ -28,6 +28,6 @@ It generalizes the concept of a function f : X → Y by not forcing f to map eve
 (b)supp({Diapers} -> {Milk}) = 40%, conf({Diapers} -> {Milk}) = supp({Diapers} -> {Milk}/supp({Diapers}) = 40%/70% = **57**%  
 (c) ∀x ∈ T : σ(x) = *6*, given that σ(x) = max support of size 3  
 (d)  6 unique items, 3^6-2^(6+1)+1 = 3-2+1 = **602** possible rules  
-(e) itemset **{Milk, Diapers, Bread, Butter}** has the biggest size with 4 items and is frequent (sup({Milk, Diapers, Bread, Butter})(20%)
+(e) itemset **{Milk, Diapers, Bread, Butter}** has the biggest size with 4 items and is frequent (sup({Milk, Diapers, Bread, Butter})(20%)  
 (f) **{Diapers, Milk}**. Find de individuelle frequencies først, og gå efter det.  
 (g) **{Bread, butter}**  
