@@ -21,16 +21,16 @@ The intersection of two events A and B is the event consisting of all outcomes t
 (vi) Only {6} (not A or C)  
 
 (c)  
-A={{S1,S2,F3},{S1,F2,S3},{F1,S2,S3}}
-B={{S1, S2, F3}, {S1,F2,S3}, {F1, S2, S3}, {S1,S2,S3}}
-C={{S1,S2,F3}, {S1,F2,S3}, {S1,S2,S3}}
+A={{S1,S2,F3},{S1,F2,S3},{F1,S2,S3}}  
+B={{S1, S2, F3}, {S1,F2,S3}, {F1, S2, S3}, {S1,S2,S3}}  
+C={{S1,S2,F3}, {S1,F2,S3}, {S1,S2,S3}}  
 
 (iv)   
-C' = {F1,F2,S3},{F1,S2,F3},{F1,F2,F3},{F1,S2,S3},{S1,F2,F3}}  
-AnC = {{S1,S2,F3}, {S1,F2,S3}}
-AuC = {{S1,S2,F3}, {S1,F2,S3}, {F1,S2,S3}, {S1,S2,S3}}
-BuC ..
-BnC ..
+C' = {F1,F2,S3},{F1,S2,F3},{F1,F2,F3},{F1,S2,S3},{S1,F2,F3}}    
+AnC = {{S1,S2,F3}, {S1,F2,S3}}  
+AuC = {{S1,S2,F3}, {S1,F2,S3}, {F1,S2,S3}, {S1,S2,S3}}  
+BuC ..  
+BnC ..  
 
 # Exercise 9-2
 *brug slides til denne slags opgaver*
@@ -38,10 +38,16 @@ BnC ..
 Pr(A) = 60%, 0.6 - Individuals that include optional mem card  
 Pr(B) = 40%, 0.4 - Include Extra Battery  
 Pr(AnB) = 30%, 0.3 - Extra Battery and Optional mem card  
-Pr(AnB)/Pr(B) = 30/40 = 0.75 = 75%
+Pr(AnB)/Pr(B) = 30/40 = 0.75 = 75%  
 
 (b)
-Pr(AnB)/Pr(A) = 30/60 = 0.5 = 50%
+Pr(AnB)/Pr(A) = 30/60 = 0.5 = 50%  
 
 # Exercise 9-3
-Answer in Book PDF
+Answer in Book PDF  
+
+# Exercise 9-4
+(a)
+Pr(yes) = 4/8 = 50%, 0.5
+Pr(no) = 4/8 = 50%, 0.5
+(b)  
