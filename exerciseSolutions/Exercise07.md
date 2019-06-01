@@ -63,32 +63,35 @@ some class ci that have been predicted
 correctly  
 **precision**: proportion of test objects predicted as class ci that actually belong to class ci  
 
-recall(A) = 4/5 = **0.8** *4/(4+1)*
-recall(B) = 2/5 = **0.4** *2/(2+3)*
-recall(C) = 3/5 = **0.6** *3/(3+2)*
+recall(A) = 4/5 = **0.8** - *4/(4+1)*  
+recall(B) = 2/5 = **0.4** - *2/(2+3)*  
+recall(C) = 3/5 = **0.6** - *3/(3+2)*  
 
-precision(A) = 4/7 = **0.57** 4/(4+3)
-precision(B) = 2/3 = **0.66** 2/(2+1)
-precision(C) = 3/5 = **0.66** 3/(3+2)
+precision(A) = 4/7 = **0.57** - *4/(4+3)*  
+precision(B) = 2/3 = **0.66** - *2/(2+1)*  
+precision(C) = 3/5 = **0.66** - *3/(3+2)*  
 
-F1(A) = 2*(0.8*0.57)/(0.8+0.57) =**0.665**  
-F1(B) = 2*(0.4*0.66)/(0.4+0.66) =**0.498**  
-F1(C) = 2*(0.6*0.66)/(0.6+0.66) = **0.628**  
+F1(A) = 2*(0.8 0.57)/(0.8+0.57) =**0.665**  
+F1(B) = 2*(0.4 0.66)/(0.4+0.66) =**0.498**  
+F1(C) = 2*(0.6 0.66)/(0.6+0.66) = **0.628**
+
+**HUSK MARKDOWN IKKE VISER GANGETEGN**
 
 Macro Average F1:  
-aRecall = 0.8+0.4+0.6/3 =  0.6
-aPrecision = 0.57+0.66+0.66/3 = 0.63  
-**= 2*(0.6*0.63)/(0.6+0.63) = 0.615**
+aRecall = 0.8+0.4+0.6/3 =  0.6  
+aPrecision = 0.57+0.66+0.66/3 = 0.63    
+**= 2*(0.6 0.63)/(0.6+0.63) = 0.615**
 
-Micro Average F1:
-A: 4 B: 2 C: 3 = 9 TP   
+Micro Average F1:  
+A: 4 B: 2 C: 3 = 9 TP     
 A: 3 B: 1 C: 2 = 6 FP  
 A: 1 B: 3 C: 2 = 6 FN  
 15 Total.   
 Precision = 9/(9+6) = 0.6   
 Recall = 9/(9+6) = 0.6  
-**2*(0.6*0.6)/(0.6+0.6) = 0.6**  
+**2*(0.6 0.6)/(0.6+0.6) = 0.6**  
 
 The micro- and macro-Average f1-measures are not far from each other. However Micro is probably the most accurate for this particular example.  
 
 # Exercise 7-3
+Go back

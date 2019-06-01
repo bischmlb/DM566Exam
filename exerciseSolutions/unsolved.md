@@ -1,5 +1,5 @@
 **Exercises unsolved**
-# Exercise : 5-2, 3-2,
+# Exercise : 5-2, 3-2, 7-3
 
 **Exercises that needs an extra look**
 # Exercise : 5-1(c)
