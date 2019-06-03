@@ -18,7 +18,7 @@ When data is disinguished without previously known examples.
 **Assigning different pieces of data to different classes. e.g putting a mail into spam or non-spam.**
 
 (a) Optical character recognition/OCR:  
-*unsupervised learning*, classification
+*supervised learning*, classification
 
 (b) Computer Aided Diagnosis:  
 *supervised learning*, classification
