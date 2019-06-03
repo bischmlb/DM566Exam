@@ -106,7 +106,9 @@ dist2(p, q) = 5.3851 . . .
 dist1(p, q) = 9  
 dist∞(p, q) = 4   
 distw(p, q) = 7.1063  
-distM1(p, q) = 5.3851 . . .  
+distM1(p, q) = 5.3851 . . .
+((2-4)/1)**2+((3-7/1))**2+((5-8/1))**2
+
 distM2(p, q) = 8.4261 . .  
 **ColorhistorgramsAndDistancefunctions.py**   
 
