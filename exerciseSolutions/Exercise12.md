@@ -43,7 +43,7 @@ N2(D) = {C,B}
 lrd2(F):  
 N2(F) = {G,H}  
 2/reachdist(G <- F) + reachdist2(H <- D) = 2/(1+2) = 0.66  
-**= (1.0+0.66) * (4 + 4) = 13.280000000000001**
+**= (1.0+0.66) * (4 + 4) = 13.280000000000001/4**
 
 LOF2(K):  
 
@@ -51,7 +51,7 @@ N2(J) = {H, I, G, K}
 N2(H) = {G, I, J}  
 
 lrd2(J) =  4/reachdist2(H <- J) + reachdist2(I <- J) + reachdist2(G <- J) + reachdist2(K <- J).  
-**GOT THE POINT, MAKE THIS IN ELKI?? or R??**
+**GOT THE POINT, MAKE THIS IN ELKI?? or R??** -- ELKI og export
 
 
 # Exercise 12-3
